@@ -13,7 +13,6 @@
 #                               # checkout — клонирует репозиторий
 #                                     - uses: actions/checkout@v3
 #                                           # run – произвольная bash-команда
-#                                                 # ls -la выведет содержимое текущего репозитория
 #                                                       - run: make say-hello
 #
 #
